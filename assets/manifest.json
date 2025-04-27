@@ -1,7 +1,7 @@
 {
-    "name": "Thailand Travel Packing Guide",
-    "short_name": "Packing Guide",
-    "start_url": "/travel-packing-guide/",
+    "name": "Thailand Road Transport Guide",
+    "short_name": "Transport Guide",
+    "start_url": "/road-transport-guide/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#0b3d91",
